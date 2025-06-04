@@ -1,2 +1,9 @@
 # hello-world
-Hello world program.
+
+This repository contains a simple Hello World program in Python.
+
+Run the example with:
+
+```bash
+python hello.py
+```
